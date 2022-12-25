@@ -1,0 +1,10 @@
+.main
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+div
+{
+    border: 1px solid black;
+}

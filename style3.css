@@ -1,0 +1,103 @@
+@media screen and (min-width : 1200px) {
+
+    .title {
+        margin: auto;
+        font-size: 30px;
+    }
+
+    h2 {
+        margin: auto;
+        border: 1px solid rgb(255, 255, 255);
+        padding-bottom: 5px;
+    }
+
+    .name {
+        margin-top: 4px;
+        margin-left: 450px;
+    }
+
+    .navbar {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        background-color: rgb(67, 62, 62);
+        margin: auto;
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+
+    .o1 {
+        float: left;
+        color: white;
+        font-family: Times New Roman;
+        font-size: 18px;
+    }
+
+    .dropbtn {
+        background-color: rgb(67, 62, 62);
+        border-color: rgb(67, 62, 62);
+
+    }
+
+    .dropdown-content a {
+        color: white;
+        text-decoration: none;
+        border: 1px solid rgb(67, 62, 62);
+        margin-top: 20px;
+        padding: 0px;
+        margin-left: 50px;
+    }
+
+
+
+    .b1 {
+        position: fixed;
+        font-weight: bolder;
+        font-size: 15px;
+        font-family: Times New Roman;
+        margin-left: 4px;
+        margin-top: 19px;
+        border: 1px solid black;
+        width: 360px;
+        padding-bottom: 75px;
+    }
+
+    .b2 {
+        position: fixed;
+        font-weight: bolder;
+        font-size: 15px;
+        font-family: Times New Roman;
+        margin-left: 380px;
+        border: 1px solid black;
+        width: 1120px;
+        padding-bottom: 25px;
+    }
+
+    .b3 {
+        position: fixed;
+        font-weight: bolder;
+        margin-top: 180px;
+        font-size: 15px;
+        font-family: Times New Roman;
+        margin-left: 380px;
+        border: 1px solid black;
+        width: 1120px;
+        padding-bottom: 25px;
+    }
+
+
+
+
+    h1 {
+        margin-left: 10px;
+    }
+
+    .para {
+        font-size: 20px;
+        font-family: Times New Roman;
+        font-weight: bolder;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+
+}

@@ -1,0 +1,138 @@
+@media screen and (min-width : 710px) and (max-width : 1200px) {
+
+    .title {
+        margin: auto;
+        font-size:30px;
+    }
+    h2 {
+        margin: auto;
+        border: 1px solid rgb(255, 255, 255);
+        padding-bottom: 5px;
+    }
+    .name {
+        margin-top: 4px;
+        margin-left: 100px;
+    }
+    .navbar {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        background-color: rgb(67, 62, 62);
+        margin: auto;
+        width: 700px;
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+    .o1 {
+        float: left;
+        color: white;
+        font-family: Times New Roman;
+        font-size: 18px;
+    }
+    .dropbtn
+{
+    background-color: rgb(67, 62, 62);
+    border-color:  rgb(67, 62, 62);
+
+}
+.dropdown-content a
+{
+    color: white;
+    text-decoration: none;
+    border: 1px solid rgb(67, 62, 62);
+    margin-top: 20px;
+    padding: 0px;
+    margin-left: 30px;
+}
+
+
+    .b {
+
+        font-weight: bolder;
+        font-size: 13px;
+        font-family: Times New Roman;
+    }
+
+    .b1 {
+        border: 1px solid black;
+        width: 150px;
+    }
+
+    .b2 {
+        border: 1px solid black;
+        width: 530px;
+        margin-left: 10px;
+    }
+    .b3 {
+        border: 1px solid black;
+        width: 530px;
+    }
+   
+
+    @media screen and (min-width :660px) and (max-width: 770px)
+    {
+
+        .b3 {
+            font-weight: bolder;
+            font-size: 13px;
+            font-family: Times New Roman;
+
+            position: absolute;
+            border: 1px solid black;
+            width: 530px;
+            margin-top: 230px;
+            margin-left: 164px;
+        }
+    }
+
+    h1 {
+        margin-left: 10px;
+    }
+
+    .para {
+        font-size: 17px;
+        font-family: Times New Roman;
+    }
+
+    .ch {
+        padding-left: 30px;
+    }
+
+    #block {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+    }
+}
+
+@media screen and (min-width : 770px) and (max-width : 1200px) {
+
+    body
+    {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
